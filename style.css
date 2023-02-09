@@ -1,0 +1,10 @@
+img {
+	position: fixed;
+    display: none;
+	top: 50%;
+	right: 50%;
+    transform: translate(50%);
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
